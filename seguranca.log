@@ -1,0 +1,5 @@
+2023-10-27 10:01:05 INFO - Sistema iniciado com sucesso.
+2023-10-27 10:05:12 WARNING - Uso de memória acima de 80%.
+2023-10-27 10:10:33 ERROR - Falha na conexão com o banco de dados.
+2023-10-27 10:15:00 INFO - Backup realizado.
+2023-10-27 10:20:45 CRITICAL - Kernel panic detectado!
